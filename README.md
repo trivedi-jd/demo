@@ -6,3 +6,4 @@ This is a simple initial commit file.
 
 I hope this isn't much of a problem. Surely it isn't
 Trying the stash feature.
+Changing in GitHub.
